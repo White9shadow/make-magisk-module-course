@@ -261,6 +261,3 @@ your_module.zip
 ## Conclusion
 
 Creating Magisk modules can greatly enhance the functionality and customization of Android devices. By following this guide, you'll be able to develop, test, and distribute your own Magisk modules effectively and safely. Happy coding!
-```
-
-You can copy and paste this markdown content into a `README.md` file or directly onto a GitHub repository page to create a comprehensive guide for Magisk module development.
